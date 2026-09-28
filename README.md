@@ -30,3 +30,4 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+You can test the current configuration and webapp in https://flourishing-kitsune-e314d9.netlify.app/ Working to make this available natively for PC and I will upload it as standalone exe as well , Have to thank  Aslanov Orkhan for it.
